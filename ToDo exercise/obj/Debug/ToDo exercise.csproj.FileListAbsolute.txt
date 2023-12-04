@@ -1,0 +1,13 @@
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\bin\Debug\ToDo exercise.exe.config
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\bin\Debug\ToDo exercise.exe
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\bin\Debug\ToDo exercise.pdb
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo exercise.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo_exercise.Form1.resources
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo_exercise.Properties.Resources.resources
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo_exercise.User_form.resources
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo exercise.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo exercise.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo exercise.exe
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo exercise.pdb
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo_exercise.KayitListele.resources
+C:\Users\musta\Desktop\C #\ToDo exercise\ToDo exercise\obj\Debug\ToDo_exercise.Todo.resources
